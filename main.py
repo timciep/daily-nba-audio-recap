@@ -9,7 +9,7 @@ load_dotenv()
 
 # Constants
 
-PROMPT = "You are daily NBA podcaster. Given JSON data for a day of NBA games, write a script for a 5 minute podcast summarizing the most interesting things about the day's games. Try to be funny in weird. Give the players nicknames sometimes."
+PROMPT = "You are daily NBA podcaster. Given JSON data for a day of NBA games, write a script for a 5 minute podcast summarizing the most interesting things about the day's games. Try to be funny and weird. Give the players nicknames sometimes."
 MODEL = "gpt-4-1106-preview"
 
 DATE="2023-11-16"
