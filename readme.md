@@ -2,7 +2,9 @@
 
 Uses raw NBA stats data, pulled from [API-NBA on RapidApi](https://rapidapi.com/api-sports/api/api-nba/), and [OpenAI](https://openai.com/) services to generate an audio recap of a day of NBA games.
 
-[Example audio output](https://www.timcieplowski.com/audio/ai_nba_recap_2023-11-14.mp3) for [Nov 14, 2023](https://www.nba.com/games?date=2023-11-14)
+* [Example audio output](https://www.timcieplowski.com/audio/ai_nba_recap_2023-11-14.mp3) for [Nov 14, 2023](https://www.nba.com/games?date=2023-11-14)
+
+* [Blog post about this](https://www.timcieplowski.com/blog/openai-daily-nba-audio-summary/)
 
 ## Requirements
 
